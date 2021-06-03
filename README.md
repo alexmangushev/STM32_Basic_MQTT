@@ -1,6 +1,8 @@
 # STM32_Basic_MQTT
 First project in CubeIDE with STM32F103C8T6 to switch LED with protocol MQTT
 
+!!!!!!!!Перед стартом переименовать папку в "MQTT_basic_switch"!!!!!!!!!!!!!!!!!!
+
 Для выхода в сеть изпользуется ESP8266, подключенная по интерфейсу UART.
 Плата "BluePill", светодиод на PC13 переключается с помощью отправки по MQTT.
 
